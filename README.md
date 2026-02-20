@@ -87,5 +87,16 @@ Thesis: "Assessing the effect of eastern hemlock decline from hemlock woolly ade
 * Software Carpentry Instructor *(2023)*
 * Treasurer, Montana State University oSTEM Chapter *(Dec. 2024 – Nov. 2025)*
 * Board Member, Boardroom Bobcats *(Aug. 2025 – May 2026)*
-* STEM Education & Outreach, Emily Dickinson Elementary School *(Jan. – April 2025)*
-* Board Member, North Carolina Space Grant Advisory Board *(2023 – 2024)*
+- STEM Education and Outreach, Emily Dickinson Elementary School | Jan. – April 2025
+- Volunteer, MSU MicroFair | March 2025
+- Volunteer, MSU Microbiology & Cell Biology Career Workshop | Feb. 2025
+- Volunteer, MSU Science Day | Feb. 2025
+- Board Member, North Carolina Space Grant Advisory Board | 2023 – 2024
+
+---
+
+## Media
+
+- [Ignite@AGU: Queering in the Earth and ecological sciences](https://www.youtube.com/watch?v=kGia83Mg7ts&list=PL8X9E6I5_i8g0-Dj6Aixg3AwPVx_gfdIA&index=9&pp=iAQB) | Dec. 2023
+- [Original Minds of UNC Asheville interview](https://www.youtube.com/watch?v=BGYgc8Xn3r8) | April 2021
+- [McCullough Fellows: Working locally for global impact](https://stories.unca.edu/mccullough-fellows) | Feb. 2020
